@@ -4,7 +4,7 @@ import Header from "./components/Header/Header";
 import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Skills from "./components/skills/Skills";
-import Qualification from "./components/qualification/qualification";
+import Qualification from "./components/qualification/Qualification.jsx";
 import Footer from "./components/Footer/Footer";
 import Work from "./components/work/Work";
 
