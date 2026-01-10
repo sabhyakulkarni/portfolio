@@ -1,7 +1,7 @@
 // src/components/work/Data.jsx
 import work2 from "../../assets/work2.jpg";
 import works8 from "../../assets/works8.jpg"; // <- note the 's' matches your file
-import work9 from "../../assets/todo.jpg";
+import todo from "../../assets/todo.jpg";
 
 
 
