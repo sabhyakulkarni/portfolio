@@ -1,7 +1,7 @@
 // src/components/work/Data.jsx
 import work2 from "../../assets/work2.jpg";
 import works8 from "../../assets/works8.jpg"; // <- note the 's' matches your file
-import todo from "../../assets/todo.jpg";
+import works9 from "../../assets/todo.jpg";
 
 
 
@@ -17,7 +17,7 @@ export const projectsData = [
 
     {
         id: 9,
-        image: todo,
+        image: works9,
         title: "ToDo Task Management Wesbute",
         category: "Full Stack",
         link: "https://github.com/sabhyakulkarni/To-Do-Web-Application",
